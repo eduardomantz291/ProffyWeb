@@ -6,9 +6,9 @@
 
 ## 📋 Index
 
-- [Sobre](#-Sobre)
-- [Tecnologias utilizadas](#-Tecnologias-utilizadas)
-- [Como executar o projeto](#-Como-executar-o-projeto)
+- [About](#-About)
+- [Technologies used](#-Technologies used)
+- [How to run the project](#-How to run the project)
 - [Preview](#-Preview)
 
 ---
@@ -23,16 +23,15 @@
 
 ## 📖 About
 
-Este é um projeto desenvolvido durante a **[Next Level Week](https://nextlevelweek.com/)**, realizada pela **[@Rocketseat](https://github.com/Rocketseat)** durante os dias 3 a 9 de Agosto de 2020.
+This is a project developed during ** [Next Level Week] (https://nextlevelweek.com/) **, carried out by ** [@Rocketseat] (https://github.com/Rocketseat) ** during 3 to 9 August 2020.
 
-A proposta do projeto é uma aplicação que possa ligar quem deseja aprender, com quer ensinar. É possível encontrar alunos para o que você leciona, ou encontrar o professor para aquela matéria que você sempre quis aprender mais! Sem que haja nenhuma limitação de área!! 
+The project proposal is an application that can connect those who want to learn, and want to teach. You can find students for what you teach, or find the teacher for that subject you always wanted to learn more about! Without any area limitation !!
 
 --- 
 
 ## 🚀 Technologies used
 
-O projeto está desenvolvido utilizando as seguintes tecnologias:
-
+The project is developed using the following technologies:
 - HTML
 - CSS
 - JavaScript
