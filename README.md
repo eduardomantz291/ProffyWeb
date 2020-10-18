@@ -1,14 +1,10 @@
-<p align="center">
-  <img src="https://ik.imagekit.io/capitao/Proffy/nlw2_6d7PvlHZ5.svg" width="150" >
-</p>
-
 <div align="center">
 
 [![GitHub stars](https://img.shields.io/github/stars/guilhermecapitao/proffy-discovery)](https://github.com/guilhermecapitao/proffy-discovery/stargazers)<space> <space>[![GitHub license](https://img.shields.io/github/license/guilhermecapitao/proffy-discovery)](https://github.com/guilhermecapitao/proffy-discovery/blob/master/LICENSE)<space> <space>[![GitHub forks](https://img.shields.io/github/forks/guilhermecapitao/proffy-discovery)](https://github.com/guilhermecapitao/proffy-discovery/network)
 
 </div>
 
-## 📋 Índice
+## 📋 Index
 
 - [Sobre](#-Sobre)
 - [Tecnologias utilizadas](#-Tecnologias-utilizadas)
@@ -25,7 +21,7 @@
 
 ---
 
-## 📖 Sobre 
+## 📖 About
 
 Este é um projeto desenvolvido durante a **[Next Level Week](https://nextlevelweek.com/)**, realizada pela **[@Rocketseat](https://github.com/Rocketseat)** durante os dias 3 a 9 de Agosto de 2020.
 
@@ -33,7 +29,7 @@ A proposta do projeto é uma aplicação que possa ligar quem deseja aprender, c
 
 --- 
 
-## 🚀 Tecnologias utilizadas
+## 🚀 Technologies used
 
 O projeto está desenvolvido utilizando as seguintes tecnologias:
 
@@ -46,20 +42,20 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 
 --- 
 
-## ⌨ Como executar o projeto
+## ⌨ How to run the project
 
 ```bash
-# Clonar o repositório
+# Clone the repository
 git clone https://github.com/guilhermecapitao/proffy-discovery
 
-# Entrar no diretório
+# Enter directory
 cd proffy-discovery
 
-# Baixar as dependências
+# Download dependencies
 npm i
 
-# Executar o servidor
+# Run the server
 npm run dev
 ```
 
-Feito isso, abra o seu navegador e acesse `http://localhost:5500/`
+That done, open your browser and access `http://localhost:5500/`
